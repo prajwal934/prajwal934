@@ -1,7 +1,7 @@
 
 **Yo, I'm a Java Dev based in India. My playground? Spring Boot, and Spring Security. Check out some of my top-notch work that I've got pinned right here for you to explore. 😄🚀**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajumb0232&label=Profile%20views&color=0e75b6&style=flat" alt="rajumb0232" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwal934&label=Profile%20views&color=0e75b6&style=flat" alt="prajwal934" /> </p>
 
 ---
 ⚙️ **Backend:**
@@ -17,10 +17,10 @@
 &nbsp;Git & GitHub&nbsp; | &nbsp;Postman&nbsp; | &nbsp;Postman&nbsp; | &nbsp;Eclipse IDE&nbsp; | &nbsp;Spring Tool Suite&nbsp; | &nbsp;IntelliJ IDEA&nbsp; | &nbsp;VS Code&nbsp;
 
 ---
-<a href="https://github.com/rajumb0232"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal934&theme=tokyonight&hide_border=true"></a>
-<a href="https://github.com/rajumb0232"><img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prajwal934&theme=tokyonight&hide_border=true"></a> 
+<a href="https://github.com/prajwal934"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal934&theme=tokyonight&hide_border=true"></a>
+<a href="https://github.com/prajwal934"><img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prajwal934&theme=tokyonight&hide_border=true"></a> 
 <br />
 <br />
-<a href="https://github.com/rajumb0232"><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=prajwal934&theme=tokyonight&hide_border=true"></a>
+<a href="https://github.com/prajwal934"><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=prajwal934&theme=tokyonight&hide_border=true"></a>
 
 
