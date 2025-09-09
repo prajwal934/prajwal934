@@ -1,5 +1,5 @@
 
-**Yo, I'm a Java Dev based in India. My playground? Spring Boot, and Spring Security. Check out some of my top-notch work that I've got pinned right here for you to explore. 😄🚀**
+**Yo, I'm a Java Dev based in India. My playground? Spring Boot and Spring Security, and Microservices. Check out some of my top-notch work that I've got pinned right here for you to explore. 😄🚀**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwal934&label=Profile%20views&color=0e75b6&style=flat" alt="prajwal934" /> </p>
 
